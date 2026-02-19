@@ -1,0 +1,13 @@
+{
+  "names": {
+    "cael": "658e1bf4aad8b2ef7b6321b74039775060d88702d064d8b11dc099f43d0c2853"
+  },
+  "relays": {
+    "658e1bf4aad8b2ef7b6321b74039775060d88702d064d8b11dc099f43d0c2853": [
+      "wss://nos.lol",
+      "wss://relay.damus.io",
+      "wss://relay.primal.net",
+      "wss://relay.nostr.band"
+    ]
+  }
+}
